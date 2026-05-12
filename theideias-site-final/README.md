@@ -57,7 +57,7 @@ python -m http.server 8080
 
 1. Abra qualquer página no navegador
 2. Pressione **Ctrl + Shift + E**
-3. Digite a senha: **theideias2026**
+3. Digite a senha: **senha**
 4. Edite textos clicando neles
 5. Troque imagens pelo botão "Trocar Imagens"
 
